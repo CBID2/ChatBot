@@ -1,4 +1,4 @@
-# Entreprenheur chatbot
+# Entreprenheur 
 
 ## Purpose
 Enterprenheur is a chatbot that guides women in finding resources that will aid them in their entrepreneurial journey. 
