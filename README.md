@@ -1,33 +1,35 @@
-# Entreprenheur 
+# Entreprenheur
 
 ## Purpose
-Enterprenheur is a chatbot that guides women in finding resources that will aid them in their entrepreneurial journey. 
+
+Enterprenheur is a chatbot that guides women in finding resources that will aid them in their entrepreneurial journey.
 
 ## Framework
+
 This bot has been created using [Bot Framework](https://dev.botframework.com), it shows how to create a simple bot that accepts input from the user and echoes it back.
 
 ## Prerequisites
 
 - [Node.js](https://nodejs.org) version 10.14.1 or higher
 
-    ```bash
-    # determine node version
-    node --version
-    ```
+  ```bash
+  # determine node version
+  node --version
+  ```
 
 ## To run the bot
 
 - Install modules
 
-    ```bash
-    npm install
-    ```
+  ```bash
+  npm install
+  ```
 
 - Start the bot
 
-    ```bash
-    npm start
-    ```
+  ```bash
+  npm start
+  ```
 
 ## Testing the bot using Bot Framework Emulator
 
@@ -45,6 +47,11 @@ This bot has been created using [Bot Framework](https://dev.botframework.com), i
 
 To learn more about deploying a bot to Azure, see [Deploy your bot to Azure](https://aka.ms/azuredeployment) for a complete list of deployment instructions.
 
+## Image credits
+
+Avatar image: Unsplash [Jake Nackos](https://unsplash.com/photos/IF9TK5Uy-KI)
+Bot introduction card: Unsplash [ThisisEngineering RAEng](https://unsplash.com/photos/TXxiFuQLBKQ)
+Logo and Bot image: vijay verma [Illlustrations](https://illlustrations.co/)
 
 ## Further reading
 
