@@ -1,9 +1,9 @@
 # Entreprenheur chatbot
 
-##Purpose
-T
+## Purpose
+Enterprenheur is a chatbot that guides women in finding resources that will aid them in their entrepreneurial journey. 
 
-##Framework
+## Framework
 This bot has been created using [Bot Framework](https://dev.botframework.com), it shows how to create a simple bot that accepts input from the user and echoes it back.
 
 ## Prerequisites
